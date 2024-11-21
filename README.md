@@ -2,6 +2,8 @@
 
 This project deploys a FastAPI application that classifies images as either cats or dogs using a deep learning model. The application is containerized and deployed to AWS Lambda.
 
+![deployment](assets/image.jpeg)
+
 ## Prerequisites
 
 ### AWS Setup
